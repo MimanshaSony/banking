@@ -12,7 +12,7 @@
 					placeholder="enter your username"></td>
 			</tr>
 			<tr>
-				<td>Password: <input type="password" name="password"
+				<td>Payuiohjkl;'word: <input type="password" name="password"
 					placeholder="enter your password">
 				</td>
 			</tr>
